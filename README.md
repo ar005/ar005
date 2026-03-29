@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-- 🔭 I’m currently working on SDR, satellite, and hardware hacking <br>
+- 🔭 I’m currently working on SDR, satellite, hardware hacking and making my own EDR<br>
 - 🌱 I’m currently learning everything I can <br>
 - 📫 How to reach me: https://ianimesh.com <br>
 
